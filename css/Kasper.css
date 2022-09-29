@@ -344,7 +344,7 @@ header .toggle-menu {
         width : 100vw;
         height : 100vh;
         /*background-image: url("/media/images/heroBg0.jpg");*/
-        background-image: url("/media/images/heroBg0.jpg");
+        background-image: url("media/images/heroBg0.jpg");
         background-size : cover; /* cuts to fill the bg */
         position:relative;
     transition-duration: 1s;
