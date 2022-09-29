@@ -1410,7 +1410,7 @@ pricing {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/media/images/subscribe.jpg");
+    background-image: url("../media/images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
