@@ -354,7 +354,7 @@ header .toggle-menu {
     width : 100vw;
     height : 100vh;
     /*background-image: url("/media/images/heroBg1.jpg");*/
-    background-image: url("/media/images/heroBg1.jpg");
+    background-image: url("../media/images/heroBg1.jpg");
     background-size : cover; /* cuts to fill the bg */
     position:relative;
     transition-duration: 1s;
@@ -364,7 +364,7 @@ header .toggle-menu {
     width : 100vw;
     height : 100vh;
     /*background-image: url("/media/images/heroBg2.jpg");*/
-    background-image: url("/media/images/heroBg2.jpg");
+    background-image: url("../media/images/heroBg2.jpg");
     background-size : cover; /* cuts to fill the bg */
     position:relative;
     transition-duration: 1s;
@@ -588,7 +588,7 @@ header .toggle-menu {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/media/images/design-features.jpg");
+    background-image: url("../media/images/design-features.jpg");
     position: relative; 
     margin-bottom: 100px ;
     overflow: hidden; /* to hide the image*/    
@@ -903,7 +903,7 @@ header .toggle-menu {
 .stats {
     padding-top : var( --section-padding);
     padding-bottom : var( --section-padding);
-    background-image: url("/media/images/stats.png");
+    background-image: url("../media/images/stats.png");
 }
 .stats .container {
     display: flex ;
@@ -1223,7 +1223,7 @@ width: 100%;
         .quote {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
-            background-image: url('/media/images/quote.jpg');
+            background-image: url('../media/images/quote.jpg');
             background-size: cover;
             position: relative;    
         }
@@ -1410,7 +1410,7 @@ pricing {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/media/images/subscribe.jpg");
+    background-image: url("../media/images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
@@ -1567,7 +1567,7 @@ pricing {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     /* thise oaddings*/
-    background-image: url('/media/images/subscribe.jpg');
+    background-image: url('../media/images/subscribe.jpg');
      background-size: cover;
      position: relative;
      transform: translateY(200px); /* to avoid interfering with upper section , cause the upper section is translated 200px down */  
